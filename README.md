@@ -28,6 +28,8 @@ Se usó la plantilla **Kelly** de [BootstrapMade](https://bootstrapmade.com/kell
 Incluye:
 - Nombre completo.
 - Edad.
+
+- 
 - Ciudad de origen.
 - Semestre y carrera.
 - Correo electrónico.
